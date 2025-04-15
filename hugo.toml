@@ -1,12 +1,12 @@
 baseURL = "https://example.net"
 languageCode = "ja"
-title = "人物推理ゲーム NAME"
+title = "人物推理カードゲーム NAME"
 theme = "plague"
 
 
 
 [params]
-  siteHeaderText = "人物推理ゲーム NAME"
+  siteHeaderText = "人物推理カードゲーム NAME"
   siteFooterText = "Powered by [Hugo](https://gohugo.io/) and the [plague](https://github.com/brianreumere/plague) theme. Hosted on the Gibson supercomputer ⌨️."
 
   colors = "default-light"
@@ -19,3 +19,8 @@ theme = "plague"
       { platform = "email", identity = "e.belford@example.net", url_pattern = "mailto:%s" },
       { platform = "github", identity = "brianreumere", url_pattern = "https://github.com/%s" }
     ]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

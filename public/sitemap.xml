@@ -4,14 +4,14 @@
   <url>
     <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:1313/article/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
+    <loc>http://localhost:1313/cards/</loc>
+  </url><url>
     <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/how2play/</loc>
   </url>
 </urlset>
