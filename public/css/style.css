@@ -55,11 +55,12 @@ h1 {
     letter-spacing: -1px;
     background-image: url(../h1_background.png);
     background-repeat: no-repeat;
-    background-size: auto 90%;
-    padding-left: 40px;
-    padding-bottom: 20px;
+    background-size: auto 80%;
+        background-position: left bottom;
+        padding-left: 15px;
+        padding-bottom: 5px;
     /* 白色で縁取り */
-    /* -webkit-text-stroke: 1px white; */
+    /* -webkit-text-stroke: 0.01px white; */
 }
 
 main {
