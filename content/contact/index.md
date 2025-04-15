@@ -3,7 +3,7 @@ layout: standalone
 title: 問い合わせ
 menu:
   main:
-    weight: 1
+    weight: 5
 ---
 
 # お問い合わせ
