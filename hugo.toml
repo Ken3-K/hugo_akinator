@@ -1,4 +1,3 @@
-baseURL = "https://ken3-k.github.io/hugo_akinator/"
 languageCode = "ja"
 title = "人物推理カードゲーム NAME"
 theme = "plague"
@@ -11,7 +10,7 @@ theme = "plague"
 
   colors = "default-light"
 
-	CustomStylesheet = "/css/custom.css"
+	CustomStylesheet = "css/custom.css"
 
   [params.hcard]
     # avatar = "images/i.jpg"
