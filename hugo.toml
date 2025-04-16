@@ -11,6 +11,8 @@ theme = "plague"
 
   colors = "default-light"
 
+	CustomStylesheet = "/css/custom.css"
+
   [params.hcard]
     # avatar = "images/i.jpg"
     fullName = "島末 匠 et al."

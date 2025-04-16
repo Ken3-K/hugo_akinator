@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+
+.site-header {
+    white-space: nowrap !important;
+}
+
+body {
+    background: var(--background-color);
+    color: var(--text-color);
+    /* font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif; */
+    font-family: 'RocknRoll One', -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+h1 {
+    font-size: 2.625em;
+    font-weight: bold;
+    font-style: italic;
+    /* color: darkgreen; */
+    line-height: 2;
+    letter-spacing: -1px;
+    background-image: url(../h1_background.png);
+    background-repeat: no-repeat;
+    background-size: auto 80%;
+    background-position: left bottom;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    /* 白色で縁取り */
+    /* -webkit-text-stroke: 0.01px white; */
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(200px, 1fr));
+    grid-gap: 10px;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
