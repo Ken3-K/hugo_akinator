@@ -1,3 +1,4 @@
+baseURL = "https://ken3-k.github.io/"
 languageCode = "ja"
 title = "人物推理カードゲーム NAME"
 theme = "plague"
