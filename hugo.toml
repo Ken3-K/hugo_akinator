@@ -5,22 +5,15 @@ theme = "plague"
 
 
 
+
 [params]
+  logo_image = "/img/name_logo.png"
   siteHeaderText = "人物推理カードゲーム NAME"
-  siteFooterText = "Powered by [Hugo](https://gohugo.io/) and the [plague](https://github.com/brianreumere/plague) theme. Hosted on the Gibson supercomputer ⌨️."
+  # siteFooterText = "Powered by [Hugo](https://gohugo.io/) and the [plague](https://github.com/brianreumere/plague) theme. Hosted on the Gibson supercomputer ⌨️."
 
   colors = "default-light"
 
 	CustomStylesheet = "css/custom.css"
-
-  [params.hcard]
-    # avatar = "images/i.jpg"
-    fullName = "島末 匠 et al."
-
-    social = [
-      { platform = "email", identity = "e.belford@example.net", url_pattern = "mailto:%s" },
-      { platform = "github", identity = "brianreumere", url_pattern = "https://github.com/%s" }
-    ]
 
 [markup]
   [markup.goldmark]

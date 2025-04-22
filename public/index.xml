@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>人物推理カードゲーム NAME</title>
+    <title>NAME on 人物推理カードゲーム NAME</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on 人物推理カードゲーム NAME</description>
+    <description>Recent content in NAME on 人物推理カードゲーム NAME</description>
     <generator>Hugo 0.146.1</generator>
     <language>ja</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -13,13 +13,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cards/</guid>
       <description>&lt;!-- TODO: 各カードの説明ページ作成 --&gt;&#xA;&lt;h1 id=&#34;アイテムカード&#34;&gt;アイテムカード&lt;/h1&gt;&#xA;&lt;div class=&#34;gallery&#34;&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card1/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card1/card1.png&#34; alt=&#34;カード1&#34;&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card2/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card2/card2.png&#34; alt=&#34;カード2&#34;&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card3/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card3/card3.png&#34; alt=&#34;カード3&#34;&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card4/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card4/card4.png&#34; alt=&#34;カード4&#34;&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card5/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card5/card5.png&#34; alt=&#34;カード5&#34;&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card6/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card6/card6.png&#34; alt=&#34;カード6&#34;&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card7/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card7/card7.png&#34; alt=&#34;カード7&#34;&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card8/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card8/card8.png&#34; alt=&#34;カード8&#34;&gt;&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;h1 id=&#34;質問カード&#34;&gt;質問カード&lt;/h1&gt;&#xA;&lt;div class=&#34;gallery&#34;&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card9/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card9/card9.png&#34; alt=&#34;カード9&#34;&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card10/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card10/card10.png&#34; alt=&#34;カード10&#34;&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card11/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card11/card11.png&#34; alt=&#34;カード11&#34;&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card12/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card12/card12.png&#34; alt=&#34;カード12&#34;&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card13/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card13/card13.png&#34; alt=&#34;カード13&#34;&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card14/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card14/card14.png&#34; alt=&#34;カード14&#34;&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card15/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card15/card15.png&#34; alt=&#34;カード15&#34;&gt;&lt;/a&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/cards/card16/&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;http://localhost:1313/cards/card16/card16.png&#34; alt=&#34;カード16&#34;&gt;&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>不死鳥</title>
-      <link>http://localhost:1313/cards/card1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cards/card1/</guid>
-      <description>&lt;h1 id=&#34;不死鳥&#34;&gt;不死鳥&lt;/h1&gt;&#xA;&lt;h2 id=&#34;カードの説明&#34;&gt;カードの説明&lt;/h2&gt;&#xA;&lt;p&gt;不死鳥は、特定の条件を満たすことで、他のプレイヤーのカードを無効化することができる強力なカードです。このカードを使用することで、相手の戦略を崩すことができます。&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>問い合わせ</title>
