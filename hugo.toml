@@ -11,7 +11,7 @@ theme = "plague"
   siteHeaderText = "人物推理カードゲーム NAME"
   # siteFooterText = "Powered by [Hugo](https://gohugo.io/) and the [plague](https://github.com/brianreumere/plague) theme. Hosted on the Gibson supercomputer ⌨️."
 
-  colors = "default-light"
+  colors = "default-dark"
 
 	CustomStylesheet = "css/custom.css"
 

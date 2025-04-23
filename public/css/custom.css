@@ -21,6 +21,13 @@ body {
     line-height: 1.5;
     margin: 0px;
     padding: 0px;
+    background-image: url("/img/BackGround.png");
+        background-size: 100% auto;
+        /* 横幅を100%に広げ、縦は自動調整 */
+        background-repeat: repeat-y;
+        /* 縦方向に繰り返す */
+        background-position: top center;
+        /* 上中央に配置 */
 }
 
 
@@ -56,6 +63,7 @@ h1 {
 
 /* カード詳細ページ用 */
 .card-detail {
+    color: #f9f9f9;
     max-width: 800px;
     margin: 40px auto;
     padding: 20px;
@@ -93,6 +101,7 @@ h1 {
 
 
 .card_content {
+    /* color: #f9f9f9; */
     width: 60%;
     /* 右側の幅 */
     display: flex;
@@ -104,9 +113,10 @@ h1 {
 
 
 .card_instruction {
+    /* color: #f9f9f9; */
     width: 60%;
     font-size: 1.1em;
-    background-color: #f9f9f9;
+    /* background-color: #f9f9f9; */
     padding: 15px;
     border-radius: 8px;
     border: 1px solid #ddd;
@@ -117,6 +127,7 @@ h1 {
 }
 
 .description {
+    /* color: #f9f9f9; */
     font-size: 1em;
     /* color: #555; */
     line-height: 1.6;
