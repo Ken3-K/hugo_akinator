@@ -4,7 +4,7 @@ title: "NAME"
 
 <!-- TODO: 初めに、最後にの文章修正、文章量を増やす。 -->
 
-
+BaseURL: {{< baseurl >}}
 
 # はじめに
 
